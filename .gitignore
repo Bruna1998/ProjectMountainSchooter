@@ -1,0 +1,17 @@
+./DBProxy.py
+./DBScore
+# Ignorar arquivos de compilação
+*.log
+*.tmp
+/node_modules/
+/dist/
+/build/
+
+# Ignorar configurações locais de IDEs
+.vscode/
+.idea/
+
+# Ignorar arquivos específicos
+secret.json
+
+
